@@ -1,2 +1,2 @@
 # Function-C
-A function code
+A function code in c
